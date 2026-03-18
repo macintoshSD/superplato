@@ -234,7 +234,7 @@ See the [LICENSE](./LICENSE) file for full details.
 
 ## Maintainer
 
-Jeong Yonhui (@ghapert)  
+Jeong Yonhui (@macintoshSD)  
 1st-year undergraduate at Pusan National University, Undeclared Major  
 [github.com/ghapert](https://github.com/ghapert)
 
